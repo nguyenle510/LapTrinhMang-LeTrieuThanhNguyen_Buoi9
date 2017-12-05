@@ -1,0 +1,5 @@
+E:\QTM\LeTrieuThanhNguyen-Buoi9\SendMail\bin\Debug\SendMail.exe.config
+E:\QTM\LeTrieuThanhNguyen-Buoi9\SendMail\obj\Debug\SendMail.csprojResolveAssemblyReference.cache
+E:\QTM\LeTrieuThanhNguyen-Buoi9\SendMail\obj\Debug\SendMail.Form1.resources
+E:\QTM\LeTrieuThanhNguyen-Buoi9\SendMail\obj\Debug\SendMail.Properties.Resources.resources
+E:\QTM\LeTrieuThanhNguyen-Buoi9\SendMail\obj\Debug\SendMail.csproj.GenerateResource.Cache
